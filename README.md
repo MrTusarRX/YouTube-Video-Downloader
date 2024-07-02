@@ -12,8 +12,8 @@ This is a simple bash script to download YouTube videos using `pytube`. The scri
 1. **Clone the repository**
 
    ```bash
-   git clone https://github.com/your-username/your-repository.git
-   cd your-repository
+   git clone https://github.com/MrTusarRX/YouTube-Video-Downloader.git
+   cd YouTube-Video-Downloader
    chmod +x downTube.sh
    ./downTube.sh
    ```
