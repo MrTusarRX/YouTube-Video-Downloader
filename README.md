@@ -9,6 +9,8 @@ This is a simple bash script to download YouTube videos using `pytube`. The scri
 
 ## Usage
 
+## Termux
+
 1. **Clone the repository**
 
    ```bash
