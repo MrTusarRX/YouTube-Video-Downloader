@@ -22,7 +22,7 @@ This is a simple bash script to download YouTube videos using `pytube`. The scri
 
 
  ## Using 
- -How To Use It
+ - How To Use It
 $ ./downTube.sh
 Enter the YouTube video URL: https://youtu.be/ClHOiYXSeBs?si=82tg2O43fVvMebBI
 Enter the download path (default is current directory): /storage/emulated/0/Movies/
