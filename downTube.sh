@@ -1,4 +1,12 @@
 #!/bin/bash
+
+# ╔════════════════════════════════════╗
+# ║                                    ║
+# ║        YouTube Video Downloader    ║
+# ║             by MrTusarRX            ║
+# ║                                    ║
+# ╚════════════════════════════════════╝
+
 if ! command -v python3 &> /dev/null
 then
     echo "Python3 could not be found. Please install Python3."
