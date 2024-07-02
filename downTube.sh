@@ -1,11 +1,11 @@
 #!/bin/bash
 
-# ╔════════════════════════════════════╗
-# ║                                    ║
-# ║        YouTube Video Downloader    ║
-# ║             by MrTusarRX            ║
-# ║                                    ║
-# ╚════════════════════════════════════╝
+echo "╔═══════════════════════════════════════════╗"
+echo "║                                           ║"
+echo "║        YouTube Video Downloader           ║"
+echo "║              by MrTusarRX                 ║"
+echo "║                                           ║"
+echo "╚═══════════════════════════════════════════╝"
 
 if ! command -v python3 &> /dev/null
 then
